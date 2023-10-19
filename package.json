@@ -7,9 +7,9 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "cors": "^2.8.0",
     "dotenv": "^16.3.1",
-    "express": "^4.12.4",
-    "cors": "^2.8.0"
+    "express": "^4.12.4"
   },
   "repository": {
     "type": "git"
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
-  "homepage": "https://kandoruus.github.io/timestamp/",
+  "homepage": "https://kandoruus.github.io/timestamp/views/index.html",
   "author": "kandoruus",
   "keywords": [
     "node",
